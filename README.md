@@ -55,4 +55,3 @@ Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
->>>>>>> d46413179d5916d5473bb238fc98fc6a543cf7b9
