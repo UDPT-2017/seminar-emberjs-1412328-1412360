@@ -25,10 +25,9 @@ Yêu cầu **bắt buộc**
 
 Các **nội dung lý thuyết** dự định tìm hiểu. Nhóm liệt kê các nội dung đã làm được vào bên dưới và check vào các nội dung đã tìm hiểu được.
 * [x] Tìm hiểu về EmberJS
-      [x] Tổng quan về EmberJS
-      [x] Cài đặt EmberJS
-      [x] Sử dụng EmberJS để cài đặt WebApp
-* [ ] Nội dung 2
+  * [x] Tổng quan về EmberJS
+  * [x] Cài đặt EmberJS
+  * [x] Sử dụng EmberJS để cài đặt WebApp
 
 Các **chức năng của demo** đã thực hiện hoặc dự kiến thực hiện. Nhóm check vào các chức năng đã làm
 * [x] Tạo WebApp - TaskApp
