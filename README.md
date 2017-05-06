@@ -6,7 +6,7 @@ Thành viên:
 * [x] **1412328** Võ Ngọc Công Minh (vongoccongminh)
 * [ ] **MSSV2** Tên sinh viên 2 (tên tài khoản github)
 
-URL: **https://github.com/UDPT-2017/seminar-emberjs-1412328-1412360/blob/master/README.md**
+URL: **https://udpt-2017.github.io/seminar-emberjs-1412328-1412360/**
 
 ## Yêu cầu
 
