@@ -1,9 +1,9 @@
-﻿# Seminar-UDPT - *Tên đề tài*
+﻿# Seminar-UDPT - *EmberJS - TaskApp*
 
-**Tên đề tài** là một repository trong đề tài tìm hiểu của lớp Ứng dụng phân tán.
+**EmberJS - TaskApp** là một repository trong đề tài tìm hiểu của lớp Ứng dụng phân tán.
 
 Thành viên:
-* [ ] **MSSV1** Tên sinh viên 1 (tên tài khoản github)
+* [x] **1412328** Võ Ngọc Công Minh (vongoccongminh)
 * [ ] **MSSV2** Tên sinh viên 2 (tên tài khoản github)
 
 URL: **Link github page**
@@ -13,23 +13,27 @@ URL: **Link github page**
 Sinh viên check vào các mục bên dưới và ghi mã sinh viên đã làm vào chức năng theo mẫu. Mục nào ko có MSSV là tính điểm theo nhóm. Cần sắp xếp các chức năng bên dưới theo thứ tự MSSV đã thực hiện.
 
 Yêu cầu **GIT**
-* [ ] Có sử dụng GIT.
-* [ ] Sử dụng GIT theo Centralized Workflow.
+* [x] Có sử dụng GIT.
+* [x] Sử dụng GIT theo Centralized Workflow.
 * [ ] Sử dụng GIT theo Feature Branch Workflow.
 * [ ] Sử dụng GIT theo Gitflow Workflow.
 
 Yêu cầu **bắt buộc**
-* [ ] Source code demo
+* [x] Source code demo
 * [ ] Slide thuyết trình
 * [ ] Tạo github page để viết lại báo cáo cho nội dung đề tài tìm hiểu
 
 Các **nội dung lý thuyết** dự định tìm hiểu. Nhóm liệt kê các nội dung đã làm được vào bên dưới và check vào các nội dung đã tìm hiểu được.
-* [ ] Nội dung 1
+* [x] Tìm hiểu về EmberJS
+      [x] Tổng quan về EmberJS
+      [x] Cài đặt EmberJS
+      [x] Sử dụng EmberJS để cài đặt WebApp
 * [ ] Nội dung 2
 
 Các **chức năng của demo** đã thực hiện hoặc dự kiến thực hiện. Nhóm check vào các chức năng đã làm
-* [ ] Chức năng 1
-* [ ] Chức năng 2
+* [x] Tạo WebApp - TaskApp
+* [x] Thêm vào các Task
+* [x] Hiển thị các task đã được thêm trước đó
 
 ## Demo
 
